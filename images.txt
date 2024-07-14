@@ -2,3 +2,4 @@ nginx
 alpine
 minio/minio
 snowdreamtech/frps
+finab/bark-server
