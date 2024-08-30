@@ -5,3 +5,4 @@ snowdreamtech/frps
 finab/bark-server
 grafana/promtail
 grafana/loki
+grafana/grafana
