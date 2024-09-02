@@ -6,3 +6,4 @@ finab/bark-server
 grafana/promtail
 grafana/loki
 grafana/grafana
+frooodle/s-pdf:latest
