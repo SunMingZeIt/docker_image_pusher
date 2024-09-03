@@ -7,4 +7,4 @@ grafana/promtail
 grafana/loki
 grafana/grafana
 frooodle/s-pdf:latest
-openresty/openresty:focal
+1panel/openresty
