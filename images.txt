@@ -8,3 +8,4 @@ grafana/loki
 grafana/grafana
 frooodle/s-pdf:latest
 1panel/openresty
+couchdb
