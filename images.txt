@@ -61,9 +61,9 @@
 
 #valkey/valkey:8-alpine
 
-mysql:8.0.11
+# mysql:8.0.11
 #neo4j
-
+redis:8.0.2
 
 
 #支持私库
