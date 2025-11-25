@@ -1,6 +1,9 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+nykk3/stable-diffusion-webui-forge
+nvidia/cuda:13.0.2-cudnn-devel-ubuntu22.04
+nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
+alpine
+siutin/stable-diffusion-webui-docker:cuda-13.0.2-v1.10.1-2025-11-06
+universonic/stable-diffusion-webui:full
+aidockorg/stable-diffusion-webui-forge-cuda
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/amd64 
