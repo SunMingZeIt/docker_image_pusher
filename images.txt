@@ -1,3 +1,4 @@
+nykk3/stable-diffusion-webui-forge
 nvidia/cuda:13.0.2-cudnn-devel-ubuntu22.04
 nvidia/cuda:12.1.0-cudnn8-runtime-ubuntu22.04
 alpine
