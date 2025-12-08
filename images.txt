@@ -9,3 +9,4 @@ grafana/grafana
 frooodle/s-pdf:latest
 1panel/openresty
 couchdb
+docker.io/bitnami/mysql:9.4.0-debian-12-r1
