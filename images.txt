@@ -1,4 +1,4 @@
-biarms/mysql:5.7.33-beta-circleci
+mariadb:10.6.24-jammy
 #moby/buildkit:buildx-stable-1
 #python:3.10-slim
 #支持私库
