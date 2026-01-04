@@ -1,4 +1,4 @@
-ubuntu/mysql:8.0-22.04_edge
+biarms/mysql:5.7.33-beta-circleci
 #moby/buildkit:buildx-stable-1
 #python:3.10-slim
 #支持私库
