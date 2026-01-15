@@ -1,2 +1,2 @@
-mysql:8
+mysql:5.7
 #下载指定平台版本 --platform=linux/arm64 [镜像名称:版本号]
