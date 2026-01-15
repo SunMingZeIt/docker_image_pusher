@@ -1,2 +1,2 @@
-minio/minio:RELEASE.2025-04-22T22-12-26Z
+redis:4.0.14
 #下载指定平台版本 --platform=linux/arm64 [镜像名称:版本号]
