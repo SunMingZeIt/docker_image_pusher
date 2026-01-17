@@ -1,2 +1,2 @@
---platform=arm64 openjdk:17-jdk-alpine
+--platform=arm64 openjdk:17.0.1
 #下载指定平台版本 --platform=linux/arm64 [镜像名称:版本号]
